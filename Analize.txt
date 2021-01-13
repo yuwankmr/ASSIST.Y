@@ -1,0 +1,1143 @@
+date : (23, 'December', 2019) [16:26:02]date : (23, 'December', 2019) [16:26:36]
+_____________________________
+Ultron : Starting Ultron
+Ultron : Good Afternoon Yuwan 
+Ultron : I'm Your Programm. Name Ultron
+Master : play music
+Ultron : Playing music
+Ultron : Enjoy  
+Master : location
+Ultron : Opening on googlemap...
+Master : and process
+Ultron : You Didn't Feed me this Command :Use Another Keyword Sir.
+Master : point break
+Ultron : Sir, I don't Feel So Good 
+Ultron : check your Internet Connection. or Restart Me...
+
+date : (23, 'December', 2019) [16:32:45]/n
+________________________________________
+Ultron : Starting Ultron
+Ultron : Good Afternoon Yuwan 
+Ultron : I'm Your Programm. Name Ultron
+Master : point break
+Ultron : Are you sure Yuwan ? do you Want To Really Close Me?
+Master : yes
+Ultron : bye Yuwan  Have a Nice Day.
+date : (23, 'December', 2019) [16:34:48]
+________________________________________
+  Ultron : Starting Ultron
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+  Master : point break
+  Ultron : Are you sure Yuwan ? do you Want To Really Close Me?
+  Ultron : Sir, I don't Feel So Good 
+  Ultron : check your Internet Connection. or Restart Me...
+
+
+date : (23, 'December', 2019) [16:42:57]
+========================================
+  Ultron : Starting... Ultron
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+  Master : open YouTube
+  Ultron : Opening youtube Yuwan 
+  Master : point break
+  Ultron : Are you sure Yuwan ? do you Want To Really Close Me?
+  Ultron : Sir, I don't Feel So Good 
+  Ultron : check your Internet Connection. or Restart Me...
+
+
+date : (23, 'December', 2019) [17:00:13]
+========================================
+  Ultron : Starting... Ultron
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+  Master : command
+  Ultron : You Didn't Feed me this Command :Use Another Keyword Sir.
+  Ultron : Sir, I don't Feel So Good 
+  Ultron : check your Internet Connection. or Restart Me...
+
+:=Ended With Error. 
+
+date : (23, 'December', 2019) [17:02:36]
+========================================
+  Ultron : Starting... Ultron
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+  Ultron : Sir, I don't Feel So Good 
+  Ultron : check your Internet Connection. or Restart Me...
+
+:=Ended With Error. 
+
+date : (23, 'December', 2019) [17:04:57]
+========================================
+  Ultron : Starting...
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+
+date : (23, 'December', 2019) [17:05:46]
+========================================
+  Ultron : Starting...
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+  Master : command
+  Master : point break
+  Ultron : Are you sure Yuwan ? do you Want To Really Close Me?
+  Ultron : Sir, I don't Feel So Good 
+  Ultron : check your Internet Connection. or Restart Me...
+
+:=Ended With Error. 
+  Ultron : Okay. Say Another Command Yuwan 
+  Master : point break
+  Ultron : Sir, I don't Feel So Good 
+  Ultron : check your Internet Connection. or Restart Me...
+
+:=Ended With Error. 
+  Ultron : You Didn't Feed me this Command :Use Another Keyword Sir.
+  Master : point break
+  Master : exit
+  Ultron : You Didn't Feed me this Command :Use Another Keyword Sir.
+
+date : (23, 'December', 2019) [17:07:52]
+========================================
+  Ultron : Starting...
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+  Master : point break
+  Ultron : Are you sure Yuwan ? do you Want To Really Close Me?
+  Ultron : Sir, I don't Feel So Good 
+  Ultron : check your Internet Connection. or Restart Me...
+
+:=Ended With Error. 
+  Ultron : Okay. Say Another Command Yuwan 
+  Master : point break
+  Ultron : Sir, I don't Feel So Good 
+  Ultron : check your Internet Connection. or Restart Me...
+
+:=Ended With Error. 
+  Ultron : You Didn't Feed me this Command :Use Another Keyword Sir.
+  Master : point break
+  Ultron : Sir, I don't Feel So Good 
+  Ultron : check your Internet Connection. or Restart Me...
+
+:=Ended With Error. 
+  Ultron : You Didn't Feed me this Command :Use Another Keyword Sir.
+  Master : point break
+  Ultron : Sir, I don't Feel So Good 
+  Ultron : check your Internet Connection. or Restart Me...
+
+:=Ended With Error. 
+  Ultron : You Didn't Feed me this Command :Use Another Keyword Sir.
+
+date : (23, 'December', 2019) [17:11:14]
+========================================
+  Ultron : Starting...
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+  Master : open YouTube
+  Ultron : Opening youtube Yuwan 
+  Master : point break
+  Ultron : Are you sure Yuwan ? do you Want To Really Close Me?
+  Ultron : Sir, I don't Feel So Good 
+  Ultron : check your Internet Connection. or Restart Me...
+
+:=Ended With Error. 
+  Ultron : Okay. Say Another Command Yuwan 
+  Master : Drake
+  Ultron : Sir, I don't Feel So Good 
+  Ultron : check your Internet Connection. or Restart Me...
+
+:=Ended With Error. 
+
+date : (23, 'December', 2019) [17:12:46]
+========================================
+  Ultron : Starting...
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+  Ultron : Sir, I don't Feel So Good 
+  Ultron : check your Internet Connection. or Restart Me...
+
+:=Ended With Error. 
+  Ultron : You Didn't Feed me this Command :Use Another Keyword Sir.
+  Master : point break
+  Ultron : Sir, I don't Feel So Good 
+  Ultron : check your Internet Connection. or Restart Me...
+
+:=Ended With Error. 
+  Ultron : You Didn't Feed me this Command :Use Another Keyword Sir.
+  Master : who is black widow
+
+date : (23, 'December', 2019) [17:14:54]
+========================================
+  Ultron : Starting...
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+  Ultron : Sir, I don't Feel So Good 
+  Ultron : check your Internet Connection. or Restart Me...
+
+:=Ended With Error. 
+  Ultron : You Didn't Feed me this Command :Use Another Keyword Sir.
+  Master : time now
+
+date : (23, 'December', 2019) [17:16:53]
+========================================
+  Ultron : Starting...
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+  Master : time now
+  Ultron : The Time is 17:16:53
+  Ultron : Sir, I don't Feel So Good 
+  Ultron : check your Internet Connection. or Restart Me...
+
+:=Ended With Error. 
+
+date : (23, 'December', 2019) [17:18:42]
+========================================
+  Ultron : Starting...
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+  Ultron : Sir, I don't Feel So Good 
+  Ultron : check your Internet Connection. or Restart Me...
+
+:=Ended With Error. 
+
+date : (23, 'December', 2019) [17:19:32]
+========================================
+  Ultron : Starting...
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+  Master : time now
+  Ultron : The Time is 17:19:32
+  Ultron : Sir, I don't Feel So Good 
+  Ultron : check your Internet Connection. or Restart Me...
+
+:=Ended With Error. 
+
+date : (23, 'December', 2019) [17:20:47]
+========================================
+  Ultron : Starting...
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+  Ultron : Sir, I don't Feel So Good 
+  Ultron : check your Internet Connection. or Restart Me...
+
+:=Ended With Error. 
+  Ultron : You Didn't Feed me this Command :Use Another Keyword Sir.
+  Master : today date
+
+date : (23, 'December', 2019) [17:22:47]
+========================================
+  Ultron : Starting...
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+  Master : time now
+  Ultron : The Time is 17:22:47
+  Master : today date
+  Ultron : Today date is (23, 'December', 2019),Monday
+  Master : open Pinterest
+  Ultron : Opening pinterest Yuwan 
+  Master : facebook.com
+  Ultron : Opening website...
+  Master : occasion
+  Ultron : You Didn't Feed me this Command :Use Another Keyword Sir.
+  Master : location
+  Master : location
+  Ultron : Opening on googlemap...
+  Master : point break
+  Ultron : Are you sure Yuwan ? do you Want To Really Close Me?
+  Master : no
+  Ultron : Okay. Say Another Command Yuwan 
+  Master : who is black widow
+  Ultron : Sir, I don't Feel So Good 
+  Ultron : check your Internet Connection. or Restart Me...
+
+:=Ended With Error. 
+
+date : (23, 'December', 2019) [17:28:44]
+========================================
+  Ultron : Starting...
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+Listening...  Ultron : Sir, I don't Feel So Good 
+  Ultron : check your Internet Connection. or Restart Me...
+
+Recognizing...:=Ended With Error. 
+  Ultron : You Didn't Feed me this Command :Use Another Keyword Sir.
+Listening...Recognizing...  Master : point break
+
+date : (23, 'December', 2019) [17:46:02]
+========================================
+  Ultron : Starting...
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+Listening...Recognizing...  Master : open YouTube
+  Ultron : Opening youtube Yuwan 
+
+date : (23, 'December', 2019) [17:46:49]
+========================================
+  Ultron : Starting...
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+Listening...Recognizing...  Master : play music
+  Ultron : Playing music
+  Ultron : Enjoy  
+
+date : (23, 'December', 2019) [17:52:30]
+========================================
+  Ultron : Starting...
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+Listening...Recognizing...  Master : open music
+  Ultron : Opening music Yuwan 
+
+date : (23, 'December', 2019) [17:53:00]
+========================================
+  Ultron : Starting...
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+Listening...Recognizing...  Master : now
+  Ultron : You Didn't Feed me this Command :Use Another Keyword Sir.
+Listening...Recognizing...  Master : time now
+Listening...Recognizing...  Master : point break
+  Ultron : Are you sure Yuwan ? do you Want To Really Close Me?
+Listening...  Ultron : Sir, I don't Feel So Good 
+  Ultron : check your Internet Connection. or Restart Me...
+
+Recognizing...:=Ended With Error. 
+
+date : (23, 'December', 2019) [17:54:46]
+========================================
+  Ultron : Starting...
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+Listening...  Ultron : Sir, I don't Feel So Good 
+  Ultron : check your Internet Connection. or Restart Me...
+
+Recognizing...:=Ended With Error. 
+
+date : (23, 'December', 2019) [17:56:30]
+========================================
+  Ultron : Starting...
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+Listening...Recognizing...  Master : I am now
+
+date : (23, 'December', 2019) [17:57:46]
+========================================
+  Ultron : Starting...
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+Listening...Recognizing...  Master : time now
+  Ultron : The Time is 17:57:46
+Listening...Recognizing...  Master : today date
+  Ultron : Today date is (23, 'December', 2019),Monday
+Listening...Recognizing...  Master : Wonder Woman
+  Ultron : You Didn't Feed me this Command :Use Another Keyword Sir.
+Listening...  Ultron : Sir, I don't Feel So Good 
+  Ultron : check your Internet Connection. or Restart Me...
+
+Recognizing...:=Ended With Error. 
+Listening...  Ultron : Sir, I don't Feel So Good 
+
+date : (23, 'December', 2019) [18:02:41]
+========================================
+  Ultron : Starting...
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+Listening...Recognizing...  Master : today date
+  Ultron : Today date is (23, 'December', 2019),Monday
+
+date : (23, 'December', 2019) [18:03:41]
+========================================
+  Ultron : Starting...
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+Listening...Recognizing...  Master : today date
+  Ultron : Today date is (23, 'December', 2019),Monday
+Listening...Recognizing...  Master : time now
+  Ultron : The Time is 18:03:41
+Listening...Recognizing...  Master : Wikipedia Google
+  Ultron : Searching in Wikipedia...
+  Ultron : According to Wikipedia :
+  Ultron : Google LLC is an American multinational technology company that specializes in Internet-related services and products, which include online advertising technologies, search engine, cloud computing, software, and hardware. It is considered one of the Big Four technology companies, alongside Amazon, Apple, and Facebook.Google was founded in September 1998 by Larry Page and Sergey Brin while they were Ph.D. students at Stanford University in California.
+Listening...Recognizing...  Master : point break
+  Ultron : Are you sure Yuwan ? do you Want To Really Close Me?
+Listening...Recognizing...  Master : of course
+  Ultron : bye Yuwan  Have a Nice Day.
+:=Ended Prroperly. /n
+date : (23, 'December', 2019) [18:14:10]
+========================================
+  Ultron : Starting...
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+Listening...
+Recognizing...
+  Master : play music
+
+date : (23, 'December', 2019) [18:23:15]
+========================================
+  Ultron : Starting...
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+Listening...
+
+date : (23, 'December', 2019) [18:27:50]
+========================================
+  Ultron : Starting...
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+Listening...
+Recognizing...
+  Master : play music
+
+date : (23, 'December', 2019) [18:28:19]
+========================================
+  Ultron : Starting...
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+Listening...
+Recognizing...
+  Master : play music
+
+date : (23, 'December', 2019) [18:29:57]
+========================================
+  Ultron : Starting...
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+Listening...
+Recognizing...
+  Master : play music
+  Ultron : Playing music
+  Ultron : Enjoy  
+Listening...
+Recognizing...
+  Master : play music
+  Ultron : Playing music
+  Ultron : Enjoy  
+Listening...
+Recognizing...
+  Master : point break
+  Ultron : Are you sure Yuwan ? do you Want To Really Close Me?
+Listening...
+Recognizing...
+  Master : yes
+  Ultron : bye Yuwan  Have a Nice Day.
+:=Ended Prroperly. 
+
+date : (23, 'December', 2019) [19:03:42]
+========================================
+  Ultron : Starting...
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+Listening...
+Recognizing...
+  Master : show IP address
+  Ultron : Your Ip address is 169.254.244.80sir
+Listening...
+Recognizing...
+  Master : point break
+  Ultron : Your Ip address is 169.254.244.80sir
+Listening...
+Recognizing...
+  Master : point break
+
+date : (23, 'December', 2019) [19:17:53]
+========================================
+  Ultron : Starting...
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+
+date : (23, 'December', 2019) [19:18:24]
+========================================
+  Ultron : Starting...
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+Listening...
+Recognizing...
+  Master : my IP address
+  Ultron : Your Ip address is 169.254.244.80sir
+Listening...
+Recognizing...
+  Master : play music
+  Ultron : Playing music
+  Ultron : I Did
+Listening...
+Recognizing...
+  Master : open YouTube
+  Ultron : Opening youtube Yuwan 
+  Ultron : I Did
+Listening...
+  Ultron : Sir, I don't Feel So Good 
+  Ultron : check your Internet Connection. or Restart Me...
+
+Recognizing...
+:=Ended With Error.
+
+date : (23, 'December', 2019) [19:21:16]
+========================================
+  Ultron : Starting...
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+Listening...
+Recognizing...
+  Master : view IP address
+  Ultron : Your Ip address is 169.254.244.80sir
+Listening...
+Recognizing...
+  Master : play music
+  Ultron : Playing music
+  Ultron : As Your Wish
+Listening...
+Recognizing...
+  Master : point break
+  Ultron : Your Ip address is 169.254.244.80sir
+
+date : (23, 'December', 2019) [19:22:55]
+========================================
+  Ultron : Starting...
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+Listening...
+Recognizing...
+  Master : my IP address
+  Ultron : Your Ip address is 169.254.244.80sir
+Listening...
+Recognizing...
+  Master : point break
+  Ultron : Are you sure Yuwan ? do you Want To Really Close Me?
+Listening...
+Recognizing...
+  Master : yeah
+  Ultron : bye Yuwan  Have a Nice Day.
+:=Ended Prroperly. 
+
+date : (23, 'December', 2019) [19:32:39]
+========================================
+  Ultron : Starting...
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+Listening...
+Recognizing...
+  Master : take notes
+  Ultron : ready take notes
+Listening...
+Recognizing...
+  Master : Penthouse milkshake
+  Ultron : finished
+Listening...
+Recognizing...
+  Master : blue
+Listening...
+Recognizing...
+  Master : view
+  Ultron : You Didn't Feed me this Command :Use Another Keyword Sir.
+Listening...
+Recognizing...
+  Master : point break
+Listening...
+  Ultron : Sir, I don't Feel So Good 
+  Ultron : check your Internet Connection. or Restart Me...
+
+Recognizing...
+:=Ended With Error.
+
+date : (23, 'December', 2019) [19:35:18]
+========================================
+  Ultron : Starting...
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+Listening...
+Recognizing...
+  Master : take notes
+  Ultron : ready take notes
+  Ultron : give me a name .Yuwan 
+
+date : (23, 'December', 2019) [19:36:32]
+========================================
+  Ultron : Starting...
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+Listening...
+Recognizing...
+  Master : take notes
+  Ultron : ready take notes
+  Ultron : give me a name Yuwan 
+Listening...
+Recognizing...
+  Master : file path
+Listening...
+Recognizing...
+  Master : view
+  Ultron : finished
+Listening...
+Recognizing...
+  Master : view
+
+date : (23, 'December', 2019) [19:39:50]
+========================================
+  Ultron : Starting...
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+Listening...
+Recognizing...
+  Master : take notes
+  Ultron : ready take notes
+  Ultron : give me a name Yuwan 
+Listening...
+Recognizing...
+  Master : python
+Listening...
+Recognizing...
+  Master : you to read write and delete files use the function open file name WPS create file to append data to an existing file use the commands
+  Ultron : finished
+Listening...
+Recognizing...
+  Master : view
+
+date : (23, 'December', 2019) [19:48:35]
+========================================
+  Ultron : Starting...
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+Listening...
+Recognizing...
+  Master : take notes
+  Ultron : ready take notes
+  Ultron : give me a name Yuwan 
+Listening...
+Recognizing...
+  Master : people
+Listening...
+Recognizing...
+  Master : Python cv2 eat right and delete files open open new string function to read entire contents of the file
+  Ultron : finished
+Listening...
+Recognizing...
+  Master : view
+
+date : (23, 'December', 2019) [19:49:42]
+========================================
+  Ultron : Starting...
+  Ultron : Good Afternoon Yuwan 
+
+date : (23, 'December', 2019) [19:51:15]
+========================================
+  Ultron : Starting...
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+Listening...
+Recognizing...
+  Master : take notes
+  Ultron : ready take notes
+  Ultron : give me a name Yuwan 
+Listening...
+Recognizing...
+  Master : text
+  Ultron : Say Something to Note.Yuwan 
+Listening...
+Recognizing...
+  Master : text file line by line Python write list to file Python write lines
+  Ultron : finished
+Listening...
+Recognizing...
+  Master : read
+
+date : (23, 'December', 2019) [19:54:03]
+========================================
+  Ultron : Starting...
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+Listening...
+Recognizing...
+  Master : take notes
+  Ultron : ready take notes
+  Ultron : give me a name Yuwan 
+Listening...
+Recognizing...
+  Master : reading
+  Ultron : Say Something to Note.Yuwan 
+Listening...
+Recognizing...
+  Master : January 2019 looks like your Phogat and not permitted spin calling open the file open
+  Ultron : finished
+Listening...
+Recognizing...
+  Master : freed
+Listening...
+
+date : (23, 'December', 2019) [19:54:57]
+========================================
+  Ultron : Starting...
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+Listening...
+Recognizing...
+  Master : take notes
+  Ultron : ready take notes
+  Ultron : give me a name Yuwan 
+Listening...
+Recognizing...
+  Master : new text
+  Ultron : Say Something to Note.Yuwan 
+Listening...
+Recognizing...
+  Master : how to create a new file on Python how to create pain Mu delete files in Python reading and writing files in Python open clouds
+  Ultron : finished
+Listening...
+Recognizing...
+  Master : read
+Listening...
+Recognizing...
+  Master : point break point break
+  Ultron : Are you sure Yuwan ? do you Want To Really Close Me?
+Listening...
+Recognizing...
+  Master : yes
+  Ultron : bye Yuwan  Have a Nice Day.
+:=Ended Prroperly. 
+
+date : (23, 'December', 2019) [19:58:07]
+========================================
+  Ultron : Starting...
+
+date : (23, 'December', 2019) [20:00:04]
+========================================
+  Ultron : Starting...
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+Listening...
+Recognizing...
+  Master : take notes
+  Ultron : ready to take notes Yuwan 
+  Ultron : give me a name Yuwan 
+Listening...
+Recognizing...
+  Master : toast
+  Ultron : Say Something to Note.Yuwan 
+Listening...
+Recognizing...
+  Master : when you open a file to always need to make sure that we are close it done using a five objectives bracket bracket using opening is using with keywords that Pi with Python provides
+  Ultron : finished
+Listening...
+Recognizing...
+  Master : treat
+Listening...
+Recognizing...
+  Master : point break
+  Ultron : Are you sure Yuwan ? do you Want To Really Close Me?
+Listening...
+  Ultron : Sir, I don't Feel So Good 
+  Ultron : check your Internet Connection. or Restart Me...
+
+Recognizing...
+:=Ended With Error.
+
+date : (23, 'December', 2019) [20:02:16]
+========================================
+  Ultron : Starting...
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+Listening...
+Recognizing...
+  Master : take notes
+  Ultron : ready to take notes Yuwan 
+  Ultron : give me a name Yuwan 
+Listening...
+Recognizing...
+  Master : choose
+  Ultron : Say Something to Note.Yuwan 
+Listening...
+Recognizing...
+  Master : automatically close file when they are not being and animals but couldn't really on it
+  Ultron : finished
+Listening...
+Recognizing...
+  Master : read
+Listening...
+Recognizing...
+  Master : point break
+  Ultron : Are you sure Yuwan ? do you Want To Really Close Me?
+Listening...
+Recognizing...
+  Master : course
+  Ultron : Okay. Say Another Command Yuwan 
+Listening...
+Recognizing...
+  Master : point break
+Listening...
+  Ultron : Sir, I don't Feel So Good 
+  Ultron : check your Internet Connection. or Restart Me...
+
+Recognizing...
+:=Ended With Error.
+
+date : (23, 'December', 2019) [20:11:14]
+========================================
+  Ultron : Starting...
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+Listening...
+Recognizing...
+  Master : take notes
+  Ultron : ready to take notes Yuwan 
+  Ultron : give me a name Yuwan 
+Listening...
+Recognizing...
+  Master : python
+  Ultron : Say Something to Note.Yuwan 
+Listening...
+Recognizing...
+  Master : joke getting started ff exam paper science Captain America civil war Avengers age of Ultron a command Adobe Flash Adobe installer
+  Ultron : finished
+Listening...
+Recognizing...
+  Master : read
+  Ultron : Opening text file...As Your Wish
+Listening...
+Recognizing...
+  Master : point break
+  Ultron : Are you sure Yuwan ? do you Want To Really Close Me?
+Listening...
+  Ultron : Sir, I don't Feel So Good 
+  Ultron : check your Internet Connection. or Restart Me...
+
+Recognizing...
+:=Ended With Error.
+
+date : (23, 'December', 2019) [20:12:50]
+========================================
+  Ultron : Starting...
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+Listening...
+Recognizing...
+  Master : time now
+  Ultron : The Time is 20:12:50
+Listening...
+Recognizing...
+  Master : point break
+  Ultron : Are you sure Yuwan ? do you Want To Really Close Me?
+Listening...
+Recognizing...
+  Master : yes yes yes
+  Ultron : bye Yuwan  Have a Nice Day.
+:=Ended Prroperly. 
+
+date : (23, 'December', 2019) [20:16:59]
+========================================
+  Ultron : Starting...
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+  Ultron : Sir, Only 30available. please Plug in Charger
+Listening...
+Recognizing...
+  Master : play music
+  Ultron : Playing music
+  Ultron : By the Way
+Listening...
+Recognizing...
+  Master : play movies
+  Ultron : Playing movies
+  Ultron : By the Way
+Listening...
+  Ultron : Sir, I don't Feel So Good 
+  Ultron : check your Internet Connection. or Restart Me...
+
+Recognizing...
+:=Ended With Error.
+
+date : (23, 'December', 2019) [20:29:49]
+========================================
+  Ultron : Starting...
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+Listening...
+  Ultron : Sir, I don't Feel So Good 
+Recognizing...
+:=Ended With Error.
+
+date : (23, 'December', 2019) [21:42:44]
+========================================
+  Ultron : Starting...
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+Listening...
+Recognizing...
+  Master : activate command mode
+  Ultron : Activating Command Mode Yuwan 
+
+date : (23, 'December', 2019) [21:44:43]
+========================================
+  Ultron : Starting...
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+Listening...
+Recognizing...
+  Master : activate command mode
+  Ultron : Activating Command Mode Yuwan 
+
+date : (23, 'December', 2019) [21:46:49]
+========================================
+  Ultron : Starting...
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+Listening...
+Recognizing...
+  Master : activate command mode
+  Ultron : Activating Command Mode Yuwan 
+
+date : (23, 'December', 2019) [21:47:23]
+========================================
+  Ultron : Starting...
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+Listening...
+Recognizing...
+  Master : activate command mode
+  Ultron : Activating Command Mode Yuwan 
+
+date : (23, 'December', 2019) [21:47:47]
+========================================
+  Ultron : Starting...
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+Listening...
+Recognizing...
+  Master : activate command mode
+  Ultron : Activating Command Mode Yuwan 
+Listening...
+Recognizing...
+:=Ended With Error.
+
+date : (23, 'December', 2019) [21:49:44]
+========================================
+  Ultron : Starting...
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+Listening...
+Recognizing...
+  Master : activate command mode
+  Ultron : Activating Command Mode Yuwan 
+
+date : (23, 'December', 2019) [21:50:39]
+========================================
+  Ultron : Starting...
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+Listening...
+Recognizing...
+  Master : activate command mode
+  Ultron : Activating Command Mode Yuwan 
+
+date : (23, 'December', 2019) [21:52:44]
+========================================
+  Ultron : Starting...
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+Listening...
+Recognizing...
+  Master : activate command mode
+  Ultron : Activating Command Mode Yuwan 
+Listening...
+Recognizing...
+:=Ended With Error.
+
+date : (24, 'December', 2019) [09:45:39]
+========================================
+  Ultron : Starting...
+  Ultron : Good Morning Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+Listening...
+Recognizing...
+  Master : play music
+
+date : (24, 'December', 2019) [10:00:19]
+========================================
+  Ultron : Starting...
+  Ultron : Good Morning Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+Listening...
+Recognizing...
+  Master : activate command mode
+Listening...
+Recognizing...
+  Master : point break
+  Ultron : Are you sure Yuwan ? do you Want To Really Close Me?
+Listening...
+Recognizing...
+  Master : yes
+  Ultron : bye Yuwan  Have a Nice Day.
+Listening...
+  Ultron : Sir, I don't Feel So Good 
+Recognizing...
+:=Ended With Error.
+:=Ended Prroperly. 
+
+date : (24, 'December', 2019) [10:44:59]
+========================================
+  Ultron : Starting...
+  Ultron : Good Morning Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+Listening...
+Recognizing...
+  Master : open command mode
+  Ultron : Opening command mode Yuwan 
+  Ultron : For You
+
+date : (24, 'December', 2019) [10:48:00]
+========================================
+  Ultron : Starting...
+  Ultron : Good Morning Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+Listening...
+Recognizing...
+  Master : activate command mode
+  Ultron : Activating Command Mode Yuwan 
+Listening...
+Recognizing...
+  Master : point break
+Listening...
+Recognizing...
+  Master : yes
+
+date : (24, 'December', 2019) [10:56:44]
+========================================
+  Ultron : Starting...
+  Ultron : Good Morning Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+  Ultron : Sir, Only 29available. please Plug in Charger
+
+date : (24, 'December', 2019) [11:10:11]
+========================================
+  Ultron : Starting...
+  Ultron : Good Morning Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+Listening...
+Recognizing...
+  Master : activate command mode
+
+date : (24, 'December', 2019) [11:13:34]
+========================================
+  Ultron : Starting...
+  Ultron : Good Morning Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+Listening...
+Recognizing...
+  Master : activate command mode
+  Ultron : Activating Command Mode Yuwan 
+
+
+date : (24, 'December', 2019) [11:38:10]
+========================================
+  Ultron : Starting...
+  Ultron : Good Morning Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+Listening...
+Recognizing...
+  Master : activate command mode
+  Ultron : Activating Command Mode Yuwan 
+
+  Ultron : Hey,Yuwan  I'm Back
+Listening...
+Recognizing...
+  Master : point break
+  Ultron : Are you sure Yuwan ? do you Want To Really Close Me?
+Listening...
+Recognizing...
+  Master : yes
+  Ultron : bye Yuwan  Have a Nice Day.
+
+date : (24, 'December', 2019) [17:40:56]
+========================================
+  Ultron : Starting...
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+Listening...
+Recognizing...
+  Master : time now
+  Ultron : The Time is 17:40:56
+Listening...
+Recognizing...
+  Master : today date
+  Ultron : Today date is (24, 'December', 2019),Tuesday
+Listening...
+Recognizing...
+  Master : activate command mode
+  Ultron : Activating Command Mode Yuwan 
+
+
+date : (24, 'December', 2019) [17:49:48]
+========================================
+  Ultron : Starting...
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+Listening...
+Recognizing...
+  Master : play music
+  Ultron : Playing music
+  Ultron : I Did
+Listening...
+Recognizing...
+  Master : play movies
+  Ultron : Playing movies
+  Ultron : I Did
+Listening...
+  Ultron : Sir, I don't Feel So Good 
+Recognizing...
+:=Ended With Error.
+
+date : (24 December 2019) Time : 19:07:46   Day : 3
+========================================
+  Ultron : Starting...
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+  Ultron : Sir, Only 29available. please Plug in Charger
+Listening...
+Recognizing...
+  Master : play music
+  Ultron : Playing music
+  Ultron : Enjoy It
+Listening...
+Recognizing...
+  Master : point break
+  Ultron : Are you sure Yuwan ? do you Want To Really Close Me?
+Listening...
+Recognizing...
+  Master : yes
+  Ultron : bye Yuwan  Have a Nice Day.
+:=Ended Prroperly. 
+
+date : (25 December 2019) Time : 18:43:16   Day : 4
+========================================
+  Ultron : Starting...
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+Listening...
+Recognizing...
+  Master : location location
+  Ultron : Opening on googlemap...
+
+date : (25 December 2019) Time : 18:45:58   Day : 4
+========================================
+  Ultron : Starting...
+  Ultron : Good Afternoon Yuwan 
+  Ultron : I'm Your Programm. Name Ultron
+Listening...
+Recognizing...
+  Master : location
+  Ultron : Opening on googlemap...
+
+date : (22 Fabruary 2020) Time : 14:41:51   Day : 1
+========================================
+  Ultron : Good Afternoon  Yuwan 
+date : 2020-08-23 Time : 10:08:44   Day : 2
+========================================
+  Ultron : Good Morning  Yuwan 
+
+date : 2020-10-23 Time : 10:10:34   Day : 2
+========================================
+  Ultron : Good Morning  Yuwan 
+Listening...
+  Ultron : Sir, I don't Feel So Good 
+Recognizing...
+:=Ended With Error.
